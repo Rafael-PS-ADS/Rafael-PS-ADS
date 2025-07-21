@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-PS-ADS&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-PS-ADS&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="161" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-PS-ADS&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="148" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-PS-ADS&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="165" alt="languages graph"  />
 </div>
 
 ###
